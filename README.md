@@ -2,6 +2,10 @@
 
 > Enterprise-grade Retrieval-Augmented Generation system with conversational memory, Cohere re-ranking, and Phoenix monitoring for Abu Dhabi government procurement standards, HR policies, and security guidelines.
 
+# Demo_Video of the APP
+
+**Please watch Contextual_RAG_Chatbot\Demo_Video of the APP**
+
 ## 🚀 Key Features
 
 - **Contextual RAG**: Maintains conversation history and context across multiple document types
@@ -29,6 +33,9 @@ Context_RAG/
 ## Command to Run APP
 
 **streamlit run webui_interface\custom_webui.py**
+or
+
+**python -m streamlit run webui_interface\custom_webui.py**
 
 ## 🧠 Core Modules
 
