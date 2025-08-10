@@ -15,7 +15,7 @@ def get_requirements() ->List[str]:
     return requirement_list
 
 setup(
-    name = "flipkart",
+    name = "Contextual_Retrieval_and_Generation",
     version= "0.0.1",
     author="Wasim-Shah",
     author_email="sayedwasimshahkazmi@gmail.com",
