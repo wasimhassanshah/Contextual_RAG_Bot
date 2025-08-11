@@ -4,7 +4,7 @@
 
 # Demo_Video of the APP
 
-**Please watch Contextual_RAG_Chatbot\Demo_Video of the APP**
+**Please watch Contextual_RAG_Chatbot\Demo-C-RAG-Video of the APP**
 
 ## 🚀 Key Features
 
